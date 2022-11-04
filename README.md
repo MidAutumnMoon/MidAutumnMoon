@@ -1,16 +1,14 @@
-### Hi there 👋
+中秋月
 
-<!--
-**MidAutumnMoon/MidAutumnMoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Partially moved to SourceHut.*
 
-Here are some ideas to get you started:
+* GitHub: [MidAutumnMoon](https://github.com/MidAutumnMoon/)
+* SourceHut [~autumn](https://sr.ht/~autumn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+The activity on **GitHub** is set to private, because there are
+no other ways to hide the *Popular repos/Pinned repos* functionality
+from the profile panel on **GitHub**.
+
+
